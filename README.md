@@ -1,5 +1,8 @@
-### Hi there 👋
+### Olá :purple_heart:
 
+Eu sou Larissa, aluna {Reprograma} e estou começando a desbravar o mundo da programação. Me interesso por back-end, banco de dados e Javascript. 
+ 
+[LinkedIn](https://www.linkedin.com/in/botelholarissa/)
 <!--
 **botelholarissa/botelholarissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
